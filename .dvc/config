@@ -1,0 +1,6 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = /home/kerod/Desktop/kaim_week3/local_storage
+['remote "gdrive_remote"']
+    url = gdrive://1NW3C8EQuW-HBAsAv2uq85HWSVr05Y_gR
